@@ -1,2 +1,2 @@
-Ola Mundo! Teste no Git
+<?= phpinfo(); ?>
 
